@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 <h1 align="center">Hi 👋, I'm Samrajnee</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img align="right" alt="coding" width"400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="coding" width="450px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 - 🌱 I’m currently learning **Javascript & C**
 
