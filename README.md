@@ -5,7 +5,7 @@
 
 - I’m currently grinding **Web-Dev & DSA**
 
-- All of my projects are available in my Portfolio at [#](#)
+- All of my projects are available in my Portfolio at 
 
 - How to reach me **samrajnee30@gmail.com**
 
