@@ -5,7 +5,7 @@
 
 - I’m currently grinding **Web-Dev & DSA**
 
-- All of my projects are available in my Portfolio at https://codewithsamrajnee.vercel.app/
+- All of my projects are available in my Portfolio at codewithsamrajnee.vercel.app
 
 - Reach me at **samrajnee30@gmail.com**
 
