@@ -7,9 +7,9 @@
 
 - All of my projects are available in my Portfolio at https://codewithsamrajnee.vercel.app/
 
-- How to reach me **samrajnee30@gmail.com**
+- Reach me at **samrajnee30@gmail.com**
 
-- Fun fact **Unapologetically Sarcastic**
+- Fun fact: **Unapologetically Sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
