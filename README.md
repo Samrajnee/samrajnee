@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/samrajnee bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrajnee bhattacharjee" height="30" width="40" /></a>
 <a href="https://fb.com/samrajnee bhattacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samrajnee bhattacharjee" height="30" width="40" /></a>
-<a href="https://instagram.com/@so_called_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@samrajnee.main" height="30" width="40" /></a>
+<a href="https://instagram.com/@samrajnee.main" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@samrajnee.main" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/samrajnee bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samrajnee bhattacharya" height="30" width="40" /></a>
 </p>
 
